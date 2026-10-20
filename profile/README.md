@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="header.png" alt="NeodyAI: governed AI agents for bank compliance and operations" width="100%">
+  <img src="header.png" alt="NeodyAI: Agentic Process Management" width="100%">
 </p>
 
 # NeodyAI
 
-**Governed AI agents for bank compliance & operations, with every action on the record.**
+**Agentic Process Management: AI agents run your business processes, with every action governed and on the record.**
 
-Community banks and credit unions carry the same compliance and operations load as the largest banks, with far smaller teams. NeodyAI gives them AI agents that run back-office processes on a path regulators can follow.
+AI agents do the work of a business process. NeodyAI manages the process around them: who owns it, how far the agents may go, and the evidence of everything they did.
+
+We're starting where the bar is highest: **community banks and credit unions**, which carry the same compliance and operations load as the largest banks with far smaller teams. If agents can earn approval from a bank's model-risk team, they can pass any review.
 
 ## How it works
 
